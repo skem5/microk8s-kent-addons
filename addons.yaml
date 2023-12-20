@@ -26,3 +26,4 @@ microk8s-addons:
         - amd64
         - arm64
         - s390x
+  
